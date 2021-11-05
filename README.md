@@ -15,6 +15,8 @@ Desenvolvido na disciplina de microcontroladores de Engenharia de Controle e Aut
   <img src="https://github.com/leandromad/Contador_0-15_Led_Display_Arduino/blob/master/assets/TinkercadBotaoLedDisplay.png" width="500" title="Tinkercad">
 </p>
 
+link para o projeto: https://www.tinkercad.com/things/lWRlNTIbDdK
+
 ### Vídeo do projeto funcionando:
 #### Clique na imagem para visualizar o vídeo do projeto no youtube
   
