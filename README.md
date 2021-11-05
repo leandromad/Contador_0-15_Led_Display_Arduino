@@ -17,5 +17,9 @@ Desenvolvido na disciplina de microcontroladores de Engenharia de Controle e Aut
 
 ### Vídeo do projeto funcionando:
 #### Clique na imagem para visualizar o vídeo do projeto no youtube
-  [![Watch the video](https://github.com/leandromad/Contador_0-15_Led_Display_Arduino/blob/master/assets/Miniatura.png)](https://youtu.be/nwOk-e83ycs)
+  
+<p align="center">
+  <a href="https://youtu.be/_WUxzLzwrH8" target="_blank"><img src="https://github.com/leandromad/Contador_0-15_Led_Display_Arduino/blob/master/assets/Miniatura.png" width="500"     title="Vídeo"> 
+  </a>
+</p>
 
